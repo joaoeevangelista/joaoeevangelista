@@ -30,36 +30,45 @@ EXPERIENCIA PROFISSIONAL
          
  CONHECIMENTOS GERAIS
  
- Gerais
-Lógica de Programação.
-Inglês suficiente para ler e entender.
-Sistemas Operacionais
-Linux
-Windows
-Front-end
-HTML.
-Markdown.
-CSS (Design Responsivo).
-SASS
-Arquitetura BEM
-UI Kits
-Material Kit.
-Materialize.
-Bootstrap.
-Frameworks Front-end
-Vue.js
-Linguagens de Programação
-Java.
-PHP.
-Ruby.
-Python.
-Frameworks Back-end
-Laravel
-Banco de Dados
-MySQL.
-PostgreSQL.
-Sistemas de controle de versão
-Git.
- 
- 
+    Gerais 
+       
+        Logica Para Computação;
+        Ingles Fluente;
+        Administração e planejamento;
+        
+        
+   Sistema Operacionais
+        LINUX
+        Windows
+        MAC OS
+        
+  Front-End
+  
+        HTML
+        CSS
+        
+
+  UI Kits
+  
+        Bootstrap
+        
+  Linguagens de Programação
+  
+        Java
+        PHP
+        Python
+        
+        
+  Banco de Dados
+  
+         MYSQL
          
+  Sistemas de Controle de Versionamento
+  
+         GITHUB
+      
+        
+        
+
+  
+        
