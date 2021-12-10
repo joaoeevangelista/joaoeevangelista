@@ -7,21 +7,25 @@ Meu nome é João Evangelista, 23 anos, estudante e empreendedor. Atuo como dese
 
 FORMAÇÃO
 
-Cursando Sistema de Informação, Universidade Federal do Acre-UFAC (2015-202X)
-Cursando Engenharia Civil, UNIMETA-Acre (2017-202X)
+   Cursando Sistema de Informação, Universidade Federal do Acre-UFAC (2015-202X)
+   Cursando Engenharia Civil, UNIMETA-Acre (2017-202X)
 
 EXPERIENCIA PROFISSIONAL
 
 2019-2021 
+
  Centro de Matematica, Ciencias e Filosofia-CMCF
-    Estagiário do Nucleo de Robótica do CMCF
+ 
+        Estagiário do Nucleo de Robótica do CMCF
     
         Colaborar no desenvolvimento do projeto que visa levar ensino de Robótica Educacional para os alunos do ensino médio;
         Corrigir bugs no projeto e desenvolver novas funcionalidades.
         
 2021-Presente
+
   Tribunal de Jusitca do Estado do Acre-TJ/AC
-     Estagiário da Gerencia de Sistemas -GESIS
+  
+         Estagiário da Gerencia de Sistemas -GESIS
         
          Colaborar no suporte dos sistemas desenvolvidos e gerenciados pela gerencia;
          Colaborar no desenvolvimento de novas funcionalidades e bugs no sistema SAJ;
@@ -37,7 +41,8 @@ EXPERIENCIA PROFISSIONAL
         Administração e planejamento;
         
         
-   Sistema Operacionais
+  Sistema Operacionais
+   
         LINUX
         Windows
         MAC OS
