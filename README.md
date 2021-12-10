@@ -1,6 +1,7 @@
 João Evangelista de Araújo Neto
 
 Rio Branco-AC
+
 email: joao.evangelista.araujo@hotmail.com  
 
 Meu nome é João Evangelista, 23 anos, estudante e empreendedor. Atuo como desenvolvedor Web e desenvolvimento Mobile. PHP, HTMl em destaque por aqui. Em busca de conhecimento, projetos e transmitir conhecimento a nossa comunidade de TI. Atuo tambem na area da Construção civi. Construir e implementar sempre!
@@ -21,7 +22,8 @@ EXPERIENCIA PROFISSIONAL
         Colaborar no desenvolvimento do projeto que visa levar ensino de Robótica Educacional para os alunos do ensino médio;
         Corrigir bugs no projeto e desenvolver novas funcionalidades.
         Treinamento e Capacitação de professores e alunos;
-        Mentoria no curso de Robótica para educação e Logica Básica para progrmação.
+        Mentoria no curso de Robótica para educação e Logica Básica para progrmação;
+        Colaboração no desenvolvimento do ensino hibrido nas escolas.
         
 2021-Presente
 
@@ -44,6 +46,8 @@ EXPERIENCIA PROFISSIONAL
         Logica Para Computação;
         Ingles Fluente;
         Administração e planejamento;
+        Robótica;
+        Automação.
         
   
   Conhecimentos por area
