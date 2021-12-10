@@ -35,7 +35,9 @@ EXPERIENCIA PROFISSIONAL
          Colaborar no desenvolvimento de novas funcionalidades e bugs no sistema SAJ;
          Testar sistemas e novas implementações;
          Colaboração na governança e na distribuição de recursos da Diretoria de Tecnologia;
-         Colaboração de novas metologias para Suporte e feedback na gerencia de sistemas.
+         Colaboração de novas metologias para Suporte e feedback na gerencia de sistemas;
+         Colaboração na manutenção da rede local;
+         Colaboração na manutenção de maquina, switchs e modens.
          
          
  CONHECIMENTOS 
