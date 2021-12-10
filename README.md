@@ -20,6 +20,8 @@ EXPERIENCIA PROFISSIONAL
     
         Colaborar no desenvolvimento do projeto que visa levar ensino de Robótica Educacional para os alunos do ensino médio;
         Corrigir bugs no projeto e desenvolver novas funcionalidades.
+        Treinamento e Capacitação de professores e alunos;
+        Mentoria no curso de Robótica para educação e Logica Básica para progrmação.
         
 2021-Presente
 
@@ -30,17 +32,27 @@ EXPERIENCIA PROFISSIONAL
          Colaborar no suporte dos sistemas desenvolvidos e gerenciados pela gerencia;
          Colaborar no desenvolvimento de novas funcionalidades e bugs no sistema SAJ;
          Testar sistemas e novas implementações;
+         Colaboração na governança e na distribuição de recursos da Diretoria de Tecnologia;
+         Colaboração de novas metologias para Suporte e feedback na gerencia de sistemas.
          
          
- CONHECIMENTOS GERAIS
+ CONHECIMENTOS 
  
-    Gerais 
+ 
+   Gerais 
        
         Logica Para Computação;
         Ingles Fluente;
         Administração e planejamento;
         
-        
+  
+  Conhecimentos por area
+  
+         Governança de TI;
+         Administração de pessoas;
+         Treinamento e Capacitação;
+         
+       
   Sistema Operacionais
    
         LINUX
@@ -62,6 +74,8 @@ EXPERIENCIA PROFISSIONAL
         Java
         PHP
         Python
+        Arduino
+        C#
         
         
   Banco de Dados
